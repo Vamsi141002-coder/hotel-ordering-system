@@ -23,7 +23,7 @@ This project is a **Hotel Ordering and Bill Generating System** developed to enh
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hotel-ordering-system.git
+   git clone https://github.com/Vamsi141002-coder/hotel-ordering-system.git
 
 2. Open the project in IntelliJ IDEA or any Java IDE.
 3. Run the Main.java file.
